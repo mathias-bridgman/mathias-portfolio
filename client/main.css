@@ -2,8 +2,6 @@ body {
   background-color: grey;
   color: #0a1520;
   font-family: 'Poppins', sans-serif;
-  border-style: groove;
-  border-width: 10px;
 }
 .main {
   flex-wrap: wrap;
@@ -25,7 +23,7 @@ body {
   text-align: center;
 }
 #header {
-  color: green;
+  color: rgb(3, 99, 143);
   text-align: center;
 }
 #foundations {
@@ -89,7 +87,6 @@ body {
   border-style: groove;
   border-width: 10px;
   color: rgb(0, 0, 0);
-  width: 300px;
 }
 
 #groupProjectLink {
@@ -97,5 +94,17 @@ body {
   border-style: groove;
   border-width: 10px;
   color: rgb(0, 0, 0);
-  width: 300px;
+}
+
+#carnival {
+  text-align: center;
+  border-style: groove;
+  border-width: 10px;
+  color: rgb(0, 0, 0);
+}
+#fndBlog {
+  text-align: center;
+  border-style: groove;
+  border-width: 10px;
+  color: rgb(0, 0, 0);
 }
