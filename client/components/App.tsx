@@ -15,7 +15,10 @@ function App() {
         <a href="https://devacademy.co.nz">
           <h2 id="devtext">Taught by Dev Academy Aotearoa</h2>
         </a>
-        <a href="https://docs.google.com/document/d/1c48JSjcFvu03ji9qHgs1ZHCayQPIPKMPBxZZpJoushw">
+        <a
+          href="/mathias's Resume.pdf"
+          // href="https://docs.google.com/document/d/1c48JSjcFvu03ji9qHgs1ZHCayQPIPKMPBxZZpJoushw"
+        >
           <h2 id="cvlink">My CV</h2>
         </a>
       </div>
@@ -39,7 +42,9 @@ function App() {
           <a href="http://mathias-personal-project.devacademy.online">
             Personal Project
           </a>
-          <a href="#">Link 2</a>
+          <a href="http://ctrl-alt-defeat-whai23.devacademy.nz">
+            My First group project
+          </a>
           <a href="#">Link 3</a>
         </div>
       </div>

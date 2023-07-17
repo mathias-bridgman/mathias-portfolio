@@ -1,12 +1,12 @@
 body {
-  background-color: #070706;
+  background-color: grey;
   color: #0a1520;
   font-family: 'Poppins', sans-serif;
-}
-.main {
   border-style: groove;
   border-width: 10px;
   color: aliceblue;
+}
+.main {
   flex-wrap: wrap;
   flex: content;
 }
