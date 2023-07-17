@@ -31,7 +31,7 @@ function App() {
             Foundations Blog
           </a>
           <a href="#">Link 2</a>
-          <a href="#">Link 3</a>
+          <a href="/Foundations">About Foundations projects</a>
         </div>
       </div>
       <div id="bootcamp" className="dropdown">
@@ -45,7 +45,7 @@ function App() {
           <a href="http://ctrl-alt-defeat-whai23.devacademy.nz">
             My First group project
           </a>
-          <a href="#">Link 3</a>
+          <a href="/Bootcamp">About Bootcamp projects</a>
         </div>
       </div>
     </div>

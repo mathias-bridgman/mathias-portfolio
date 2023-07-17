@@ -4,11 +4,13 @@ body {
   font-family: 'Poppins', sans-serif;
   border-style: groove;
   border-width: 10px;
-  color: aliceblue;
 }
 .main {
   flex-wrap: wrap;
   flex: content;
+}
+#homebtn {
+  text-align: center;
 }
 #devimg {
   display: block;
@@ -80,4 +82,20 @@ body {
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {
   display: block;
+}
+
+#personalProjectLink {
+  text-align: center;
+  border-style: groove;
+  border-width: 10px;
+  color: rgb(0, 0, 0);
+  width: 300px;
+}
+
+#groupProjectLink {
+  text-align: center;
+  border-style: groove;
+  border-width: 10px;
+  color: rgb(0, 0, 0);
+  width: 300px;
 }
