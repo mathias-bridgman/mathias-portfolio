@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: whitesmoke;
   color: #0a1520;
   font-family: 'Poppins', sans-serif;
 }
@@ -107,4 +107,12 @@ body {
   border-style: groove;
   border-width: 10px;
   color: rgb(0, 0, 0);
+}
+
+/* game stuff */
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 15px;
+  background-color: #444;
 }
