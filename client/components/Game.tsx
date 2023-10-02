@@ -8,16 +8,8 @@ const [crossesArr, setCrossesArr] = useState<number[]>([]);
 const Grid = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 <div className="grid-container">
-  {Grid.map((boxNumber: boolean | Key ) => (
-    <button
-      type="button"
-      key={boxNumber}
-      value={boxNumber}
-      onClick={handleClick}
-    >
-      {boxNumber}
-    </button>
-  ))}
+  
+  
 </div>
 
 const winArrays = [
@@ -30,7 +22,4 @@ const winArrays = [
   [1, 5, 9],
   [3, 5, 7],
 ];
-
-function handleClick(event: MouseEvent<HTMLButtonElement, MouseEvent>): void {
-  throw new Error('Function not implemented.');
-}
+ 
